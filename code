@@ -46,5 +46,7 @@ int main()
     }
 
 }
+//instead of using struct you can use class 
+
 
 
